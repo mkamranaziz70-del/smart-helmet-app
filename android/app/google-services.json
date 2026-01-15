@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1070562677178",
+    "project_id": "smarthelmet-7f2f3",
+    "storage_bucket": "smarthelmet-7f2f3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070562677178:android:a0c1dc36dd1a42ba438d83",
+        "android_client_info": {
+          "package_name": "com.example.smart_helmet_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070562677178-4kfsr5vvgc8h2en8pqm4338pirgd4739.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbC4VuqePApw0s1FU5mG8RYfsj5fL1yUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070562677178-4kfsr5vvgc8h2en8pqm4338pirgd4739.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
